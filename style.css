@@ -1,0 +1,24 @@
+.bg-img1 {
+  background-color: #000;
+  /* height: 100%; */
+  background-size: cover;
+  background-image: url(./images/Zugpsitze_mountain.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  /* height: 500px; */
+  background-size: cover;
+  background-image: url(./images/forest_2.png);
+}
+
+.bg-img3 {
+  background-color: #000;
+  /* height: 500px; */
+  background-size: cover;
+  background-image: url(./images/good-nature-homepage-hero_2-scaled.jpg);
+}
+
+.carousel-item {
+  height: 500px;
+}
